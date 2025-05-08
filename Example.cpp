@@ -11,7 +11,7 @@ int main(){
   cin>>b;
 
   c=a+b;
-  cout<<"The Addition of a and b is : "<<c;
+  cout<<"The Addition of a and b is : "<<c<<endl;
   
 return 0;
 }
